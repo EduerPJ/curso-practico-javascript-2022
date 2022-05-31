@@ -1,2 +1,3 @@
-# curso-practico-javascript-2022
-Curso Práctico de Javascript con JuanDC - Platzi
+# Curso práctico de Javascript 2022
+Curso Práctico de Javascript
+Repazando y produndizando con el profe @JuanDC de Platzi
